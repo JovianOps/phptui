@@ -1,0 +1,14 @@
+{
+  "name": "jovian/phptui-polished",
+  "description": "Polished single-file PHP TUI and headless form engine (GPL-3.0, based on drevops/phptui)",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "DrevOps\\PhpTui\\": "src/"
+    }
+  }
+}
